@@ -1,11 +1,11 @@
 import React from "react";
-import HighlightIcon from "@material-ui/icons/HeadsetMic";
+import KeyboardHideIcon from "@material-ui/icons/KeyboardHide";
 
 function Header() {
   return (
     <header>
       <h1>
-        <HighlightIcon />
+        <KeyboardHideIcon />
         Keeper
       </h1>
     </header>
